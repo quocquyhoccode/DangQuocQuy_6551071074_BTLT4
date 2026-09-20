@@ -1,0 +1,16 @@
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\bin\Debug\net10.0-windows\StepByStep.exe
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\bin\Debug\net10.0-windows\StepByStep.deps.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\bin\Debug\net10.0-windows\StepByStep.runtimeconfig.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\bin\Debug\net10.0-windows\StepByStep.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\bin\Debug\net10.0-windows\StepByStep.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.frmStepByStep.resources
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.csproj.GenerateResource.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.AssemblyInfoInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.AssemblyInfo.cs
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.csproj.CoreCompileInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\refint\StepByStep.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\StepByStep.genruntimeconfig.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep\StepByStep\obj\Debug\net10.0-windows\ref\StepByStep.dll
