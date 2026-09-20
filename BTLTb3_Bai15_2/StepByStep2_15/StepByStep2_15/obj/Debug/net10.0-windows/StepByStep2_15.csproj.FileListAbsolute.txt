@@ -1,0 +1,16 @@
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\bin\Debug\net10.0-windows\StepByStep2_15.exe
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\bin\Debug\net10.0-windows\StepByStep2_15.deps.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\bin\Debug\net10.0-windows\StepByStep2_15.runtimeconfig.json
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\bin\Debug\net10.0-windows\StepByStep2_15.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\bin\Debug\net10.0-windows\StepByStep2_15.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.frmStepByStep2_15.resources
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.csproj.GenerateResource.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.AssemblyInfoInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.AssemblyInfo.cs
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.csproj.CoreCompileInputs.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\refint\StepByStep2_15.dll
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.pdb
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\StepByStep2_15.genruntimeconfig.cache
+D:\csharps\lapTrinh_TrucQuan\buoi3\BaiTapChuong3\StepByStep2_15\StepByStep2_15\obj\Debug\net10.0-windows\ref\StepByStep2_15.dll
